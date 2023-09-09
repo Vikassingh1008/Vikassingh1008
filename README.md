@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vikas Singh👦,</h1>
 <h3 align="center">A Full Stack Web developer🎯 and Java Programmer🎨 from India.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassingh1008&label=Profile%20views&color=0e75b6&style=flat" alt="vikassingh1008" /> </p>
 
 - 🔭 I’m currently working on **Chat-Application**
