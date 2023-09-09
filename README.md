@@ -1,15 +1,15 @@
 
-<img  alt="Coding" height="300px" width="100%" src="https://images.unsplash.com/photo-1545670723-196ed0954986?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&w=1000&q=80">
+<img  alt="Coding" height="300px" width="100%" src="https://c0.wallpaperflare.com/preview/1004/350/396/abstract-php-c-analytics.jpg">
 <h1 align="center">Hi there, I'm Vikas Singh👦,</h1>
 <h3 align="center">A Full Stack Web developer🎯 and Java Programmer🎨 from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassingh1008&label=Profile%20views&color=0e75b6&style=flat" alt="vikassingh1008" /> </p>
 
 - 🔭 I’m currently working on **Chat-Application**
 
 - 🌱 I’m currently learning **Taildwind and Express**
 
-- 💬 Ask me about **C,Java and MERN**
+- 💬 Ask me about **C , Java and MERN**
 
 - 📫 How to reach me **vikassingh818283@gmail.com**
 
@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikassingh1008&show_icons=true&locale=en&layout=compact" alt="vikassingh1008" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikassingh1008&show_icons=true&locale=en&layout=compact" alt="vikassingh1008" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikassingh1008&show_icons=true&locale=en" alt="vikassingh1008" /></p>
 
